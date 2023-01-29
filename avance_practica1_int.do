@@ -81,7 +81,6 @@ label variable df "Derivados Financieros"
 label variable ar "Activos de Reserva"
 label variable oi "Otras Inversiones"
 
-
 describe
 
 codebook
@@ -187,16 +186,6 @@ caption("Fuente: {it:FMI}, 2021", pos(5))
 
 
 
-
-
-
-
-
-
-
-
-
-
 ********************************************************************************************************************************
 
 * 2. Cuenta Corriente por País y Componentes
@@ -276,6 +265,4 @@ legend(label(1 "EE.UU."))
 ysize(4) xsize(8) ytitle(BCC) xlabel(2000(2)2020) xtick(2000(1)2020) ///
 ti("Balanza en Cuenta Corriente, 2000-2020") sub("Miles de Millones de Dólares") ///
 caption("Fuente: {it:FMI}, 2021", pos(5))
-
-
 
